@@ -1,0 +1,9 @@
+* text=auto
+*.py text eol=crlf
+*.pdf binary
+*.png binary
+*.jpg binary
+*.ttf binary
+*.db binary
+*.xlsx binary
+*.log binary
